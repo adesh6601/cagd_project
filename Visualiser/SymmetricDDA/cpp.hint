@@ -1,0 +1,2 @@
+#define SYMMETRICDDA_API __declspec(dllexport)
+#define SYMMETRICDDA_API __declspec(dllimport)

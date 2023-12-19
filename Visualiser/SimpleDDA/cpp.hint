@@ -1,0 +1,2 @@
+#define SIMPLEDDA_API __declspec(dllexport)
+#define SIMPLEDDA_API __declspec(dllimport)
