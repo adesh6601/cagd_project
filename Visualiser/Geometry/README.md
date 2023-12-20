@@ -12,9 +12,6 @@ Point3D.cpp: Source file containing the implementation of the Point3D class meth
 Line.h: Header file containing the declaration of the Point3D class.
 Line.cpp: Source file containing the implementation of the Point3D class methods.
 
-Rectanglee.h: Header file containing the declaration of the Point3D class.
-Rectanglee.cpp: Source file containing the implementation of the Point3D class methods.
-
 pch.h: Precompiled header file.
 Other dependencies: Ensure that you have necessary dependencies installed or included in your project.
 
