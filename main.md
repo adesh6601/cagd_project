@@ -13,9 +13,9 @@ C++ implementation of a cubic B-Spline curve, providing a mathematical represent
 Overview
 This project contains essential geometric entities such as Point, Line, and Rectangle, serving as the foundation for other graphics implementations.
 
-## 4. Sutherland-Cohen Line Clipping Algorithm
+## 4. Simple DDA Line Drawing Algorithm
 Overview
-A graphical application developed in C++ using the Qt framework with OpenGL, visualizing the Sutherland-Cohen Line Clipping Algorithm.
+A graphical application developed in C++ using the Qt framework with OpenGL, providing a visualization tool for drawing lines within a grid using the Simple DDA Line Drawing Algorithm.
 
 ## 5. Bezier Curve Implementation
 Overview
