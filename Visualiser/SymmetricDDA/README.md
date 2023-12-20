@@ -7,7 +7,7 @@ This project is a graphical application developed in C++ using the Qt framework 
 ### 2. Files
    - `SymmetricDDA.h` and `SymmetricDDA.cpp`: Implementation of the SymmetricDDA Line Drawing Algorithm.
 
-   - `drawLineBySymmetricDDA()` function takes line as input with the help of end points of line remaining points are generated using algorithm.
+   - `plotLine()` function takes line as input with the help of end points of line remaining points are generated using algorithm.
  
    - **Responsibility:** The core line drawing algorithm processes user input and computes the line.
  
