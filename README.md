@@ -24,8 +24,3 @@ C++ implementation of a cubic Bezier curve, a mathematical curve passing through
 ## 6. Symmetric DDA Line Drawing Algorithm
 Overview
 A graphical application developed in C++ using the Qt framework with OpenGL, providing a visualization tool for drawing lines within a grid using the Symmetric DDA Line Drawing Algorithm.
-
-## 7. SymmetricDDAandSutherLandCohen(Visualizer)
-   - `Visualizer.h` and `Visualizer.cpp`: GUI components are implemented in these files.
- 
-   - `OpenGLWindow.h` and `OpenGLWindow.cpp`: Responsible for handling OpenGL rendering.
